@@ -17,8 +17,6 @@ import java.util.List;
  */
 public class TestRunner {
 
-  public TestRunner() {
-  }
 
   public static void start(Class<?> clazz) {
     if (clazz != null) {
