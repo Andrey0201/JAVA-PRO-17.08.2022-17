@@ -12,7 +12,6 @@ import com.javapro.lesson22.annotation.Test;
 
 public class ClassTest {
 
-
   @BeforeSuite
   public void before() {
     System.out.println("@BeforeSuite");
